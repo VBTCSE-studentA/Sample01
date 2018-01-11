@@ -8,6 +8,7 @@ public class HelloWorld {
 		// Some things added by me to the team project.
 		System.out.println("Here is my contribution...");
 		System.out.println("Actually, I am adding a second, bonus line.");
+		// Adding a line representing modification 1A.
 	}
 
 }
